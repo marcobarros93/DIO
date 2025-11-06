@@ -1,0 +1,9 @@
+1. Crie os textos dos 3 primeiros capítulos para eu inserir no ebook: Apresentação, Objetivo do e-book, Por que aprender IA hoje?
+2. Capítulo 1: O que é Inteligência Artificial? Definição, Breve histórico
+3. Capítulo 2: Principais Conceitos: Machine Learning, Deep Learning, Redes Neurais
+4. Crie os textos dos capítulos 3, 4 e 5
+5. Crie os capítulos 6, 7 e 8
+6. Crie os Agradecimentos e Referências (ou vice-versa?, qual é a ordem?)
+7. primeiro gere um PDF formatado com capa, sumário e conteúdo final para entrega na DIO
+8. crie o README profissional
+9. Crie o arquivo README.md
