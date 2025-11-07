@@ -1,0 +1,21 @@
+PROMPT 1:
+"Escreva um roteiro de podcast de 5 minutos sobre como as IAs estão mudando a forma como as crianças aprendem, misturando o estilo dos canais Ei Nerd e Fatos Desconhecidos."
+
+RESPOSTA RESUMIDA:
+A IA transforma o aprendizado infantil ao adaptar o ensino, estimular curiosidade e oferecer experiências personalizadas, criando uma geração mais criativa e independente.
+
+---
+
+PROMPT 2:
+"Gere uma narração natural e envolvente em português brasileiro para o texto acima usando Azure Speech."
+
+RESPOSTA RESUMIDA:
+Arquivo de áudio gerado: podcast_ia_educacao.mp3
+
+---
+
+PROMPT 3:
+"Indique trilha sonora de fundo suave e inspiradora para o podcast, gratuita e sem direitos autorais."
+
+RESPOSTA RESUMIDA:
+Sugestão: “Technology Background Music” – Pixabay (https://pixabay.com/music)
