@@ -10,12 +10,5 @@ PROMPT 2:
 "Gere uma narração natural e envolvente em português brasileiro para o texto acima usando Azure Speech."
 
 RESPOSTA RESUMIDA:
-Arquivo de áudio gerado: podcast_ia_educacao.mp3
+Arquivo de áudio gerado: o-impacto-da-ia-na-sua-vida.mp3
 
----
-
-PROMPT 3:
-"Indique trilha sonora de fundo suave e inspiradora para o podcast, gratuita e sem direitos autorais."
-
-RESPOSTA RESUMIDA:
-Sugestão: “Technology Background Music” – Pixabay (https://pixabay.com/music)
