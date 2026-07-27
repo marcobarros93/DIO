@@ -22,8 +22,7 @@ Durante a atividade utilizei IA para:
 
 ├── README.md
 ├── mapa-de-habilidades.md
-├── prompts.md
-└── imagens
+└── prompts.md
 ```
 
 ---
